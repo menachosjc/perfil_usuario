@@ -28,7 +28,7 @@ Estou cursando uma **pós-graduação em Análise de Dados na FIAP** e desenvolv
 
 📫 **Entre em contato comigo:**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-usuario-linkedin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabrielmenacho)
 
 ---
 
